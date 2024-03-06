@@ -8,7 +8,7 @@ I am passionate about technology and IT. I like to stay constantly updated on ne
 
 * 🌍  I'm based in Verona, Italy
 * 🎓  ITS Academy LAST - Web development
-* 🖥️  See my portfolio at [TalhaImran03.github.io/](https://talhaimran03.github.io/)
+* 🖥️  See my portfolio at [TalhaImran03.github.io](https://talhaimran03.github.io)
 * 🔗  See my linkedin at [linkedin.com/in/Talha-Imran](https://linkedin.com/in/talha-imran-a379012a9/)
 * ✉️  You can contact me at [ImranTalha199@gmail.com](mailto:imrantalha199@gmail.com)
 * 🧠  I'm learning react, laravel, IOT 

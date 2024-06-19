@@ -33,5 +33,7 @@ I am passionate about technology and IT. I like to stay constantly updated on ne
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Talhaimran03/Talhaimran03/assets/101459540/3490c78a-c499-4b86-bc4e-840f79305f18" width="36" height="36" alt="Github" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
   
 </div>
